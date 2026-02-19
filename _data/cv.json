@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yuzhe Qin",
+    "email": "yzqin@sxu.edu.cn",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently employed at Shanxi University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,35 +33,35 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Beijing University",
+      "area": "Ph.D in Computational Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2017",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Shanxi University",
+      "area": "M.S. in Computational Mathematics",
       "studyType": "",
-      "startDate": "",
+      "startDate": "2014",
+      "endDate": "2017",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Shanxi University",
+      "area": "B.S. in Mathematics and Applied Mathematics",
+      "studyType": "",
+      "startDate": "2010",
       "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [Chinese(native), English(fluent)],
   "interests": [],
   "references": [],
   "publications": [
