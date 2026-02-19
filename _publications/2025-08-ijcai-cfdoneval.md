@@ -1,7 +1,7 @@
 ---
 title: "CFDONEval: A Comprehensive Evaluation of Operator-Learning Neural Network Models for Computational Fluid Dynamics"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-08-ijcai-cfdoneval
 date: 2025-08-01
 venue: "Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-25)"
