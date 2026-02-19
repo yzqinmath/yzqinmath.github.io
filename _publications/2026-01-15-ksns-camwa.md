@@ -1,6 +1,7 @@
 ---
 title: "A second order accurate, and structure-preserving numerical scheme for the thermodynamical consistent Keller–Segel–Navier–Stokes model"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-15-ksns-camwa
 date: 2026-01-15
 venue: "Computers & Mathematics with Applications"
