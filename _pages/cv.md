@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Mathematics, Beijing Normal University, 2020
+* M.S. in Computational Mathematics, Shanxi University, 2017
+* B.S. in Mathematics and Applied Mathematics, Shanxi University, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.03-2026.02: Postdoctoral Researcher
+  * The University of British Columbia
+  * Supervisor: Brian Wetton
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.07-Now: Associate Professor
+  * Shanxi University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020.07-2022.06: Postdoctoral Researcher
+  * Beijing Normal University
+  * Supervisor: Huaxiong Huang
   
 Skills
 ======
