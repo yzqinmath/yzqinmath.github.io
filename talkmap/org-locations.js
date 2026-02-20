@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "A second-order accurate numerical scheme for the Poisson\u2013Nernst\u2013Planck\u2013Navier\u2013Stokes (PNPNS) system<br />The University of Arkansas; Fayetteville, Arkansas, U.S.",
+    36.0625843,
+    -94.1574328
   ]
 ];
