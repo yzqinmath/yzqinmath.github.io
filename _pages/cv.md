@@ -32,7 +32,7 @@ Skills
 ======
 * Mathematical modeling with energy variational method
 * Structure preserving numerical scheme of PDEs
-* Scientic computing
+* Computational fluid dynamics
 
 Publications
 ======
