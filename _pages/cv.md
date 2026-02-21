@@ -30,12 +30,9 @@ Work experience
   
 Skills
 ======
-* Mathematical modeling 
-* Numerical scheme
-  * developing
-  * analyzing
-  * coding
-* Asymptotics
+* Mathematical modeling with energy variational method
+* Structure preserving numerical scheme of PDEs
+* Scientic computing
 
 Publications
 ======
@@ -55,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+% Service and leadership
+% ======
+% * Currently signed in to 43 different slack teams
